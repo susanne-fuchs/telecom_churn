@@ -1,0 +1,6 @@
+*.xml
+.idea/
+Results
+Data
+**/.idea/workspace.xml
+
